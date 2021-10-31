@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Team1</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Disclaimer: All content on this site is for educational purposes only.</description>
+	<lastBuildDate>Sat, 30 Oct 2021 23:59:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/2021/10/30/hello-world/</link>
+					<comments>/2021/10/30/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 30 Oct 2021 23:59:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/10/30/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2021/10/08/hello-world-2/</link>
+					<comments>/2021/10/08/hello-world-2/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 23:05:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://digitalkatie.io/team1/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/10/08/hello-world-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introduce Yourself (Example Post)</title>
+		<link>/2021/09/12/example-post-3/</link>
+					<comments>/2021/09/12/example-post-3/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 12 Sep 2021 19:38:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://team1aicybersecurity.wordpress.com/?p=7</guid>
+
+					<description><![CDATA[This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the &#8230; <p class="link-more"><a href="/2021/09/12/example-post-3/" class="more-link">Continue reading<span class="screen-reader-text"> "Introduce Yourself (Example Post)"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>This is an example post, originally published as part of </em><a href="https://dailypost.wordpress.com/blogging-university/"><em>Blogging University</em></a><em>. Enroll in one of our ten programs, and start your blog right.</em></p>
+
+
+
+<p>You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the “New Post” button, and tell us why you’re here.</p>
+
+
+
+<p>Why do this? </p>
+
+
+
+<ul><li>Because it gives new readers context. What are you about? Why should they read your blog?</li><li>Because it will help you focus your own ideas about your blog and what you’d like to do with it. </li></ul>
+
+
+
+<p>The post can be short or long, a personal intro to your life or a bloggy mission statement, a manifesto for the future or a simple outline of your the types of things you hope to publish.</p>
+
+
+
+<p>To help you get started, here are a few questions: </p>
+
+
+
+<ul><li>Why are you blogging publicly, rather than keeping a personal journal?</li><li>What topics do you think you’ll write about?</li><li>Who would you love to connect with via your blog?</li><li>If you blog successfully throughout the next year, what would you hope to have accomplished? </li></ul>
+
+
+
+<p>You’re not locked into any of this; one of the wonderful things about blogs is how they constantly evolve as we learn, grow, and interact with one another — but it’s good to know where and why you started, and articulating your goals may just give you a few other post ideas.</p>
+
+
+
+<p>Can’t think how to get started? Just write the first thing that pops into your head. Anne Lamott, author of a book on writing we love, says that you need to give yourself permission to write a “crappy first draft”. Anne makes a great point — just start writing, and worry about editing it later.</p>
+
+
+
+<p>When you’re ready to publish, give your post three to five tags that describe your blog’s focus — writing, photography, fiction, parenting, food, cars, movies, sports, whatever. These tags will help others who care about your topics find you in the Reader. Make sure one of the tags is “zerotohero,” so other new bloggers can find you, too.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/09/12/example-post-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
