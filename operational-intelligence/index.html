@@ -93,89 +93,16 @@ img.emoji {
 <article id="post-25" class="post-25 page type-page status-publish hentry entry">
 		<header class="entry-header">
 
-<h1 class="entry-title">Analytical approach</h1>
+<h1 class="entry-title">Operational Intelligence</h1>
 	</header>
 
 	<div class="entry-content">
-<h2>Data Used for Analysis</h2>
-		<div class="wp-block-columns alignwide">
-		<div class="wp-block-column">
-
-		<p class="margin-top-half"><strong>PhishTank</strong></p>
-		<ul>
-		<li>
-			<strong>Attribute Type:</strong> Qualitative/Categorical/Nominal</li>
-		<li>
-			<strong>Description:</strong> Data values with no natural ordering</li>
-				<li>
-					<strong>Procedure:</strong> Analyzing a list of url sites against a database, we can flag illegitimate url`s to prevent phishing</li>
-				<li>
-					<strong>Analytical Approach:</strong> Classification
-				</li>
-		</ul>
-		</div>
-
-		<div class="wp-block-column">
-		<figure class="wp-block-image size-large margin-bottom-half"><img src="https://digitalkatie.io/team1/wp-content/uploads/2021/10/stockvault-scam-emails-illustration259314-1024x595.jpg" alt="" class="wp-image-179"></figure>
-
-
-
-		<p class="margin-top-half"><strong>Stratosphere RAT</strong></p>
-		<ul>
-		<li>
-			<strong>Attribute Type:</strong> Qualitative/Categorical/Discrete/Nominal
-		</li>
-		<li>
-			<strong>Description:</strong> Data with disparate sources
-		</li>
-		<li>
-			<strong>Procedure:</strong> Analyzing time-based events between device active time and Trojan infected time.
-		</li>
-		<li>
-			<strong>Analytical Approach:</strong> Event Correlation
-		</li>
-		</ul>
-		</div>
-
-
-
-		<div class="wp-block-column">
-		<p class="margin-top-half"><strong>Feodo Tracker</strong></p>
-
-		<ul>
-		<li>
-			<strong>Attribute Type:</strong> Qualitative/Categorical/Discrete/Nominal
-		</li>
-		<li>
-			<strong>Description:</strong> Data that is distinct and only has finite set of values
-		</li>
-		<li>
-			<strong>Procedure:</strong> Based on various attributes associated with each IP address we can predict bad IP reputation.
-		</li>
-		<li>
-			<strong>Analytical Approach:</strong> Classification
-		</li>
-		</ul>
-		</div>
-		</div>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile">
 	<figure class="wp-block-media-text__media"><img src="https://katiels9.github.io/team1ai4cyber/2021/09/PhishTank1.png"></figure>
 	<div class="wp-block-media-text__content">
-<p class="has-large-font-size">PhishTank Analytical Approach</p>
 
-<p>Approach: Classification data mining approach techniques were utilized in distinguishing phishing versus non-phishing websites. </p>
-<p>Sources: Data sources such as Phishtank, Google search engine and MillerSmilaes which contain lists of phishing URL sites, IP addresses, etc., are useful in running this kind of analysis.​</p>
-<p>Insight: Classification could lead to derived insights such as targeted industries prone to attacks, enabling security analyst to realign their focus in these areas.</p>
-<p>Value: Classification techniques using URL's could allow an organization to develop proactive cybersecurity measures such as URL site restrictions in addition to maintaining its internal phishing blacklist automatically.​</P>
-<ul>
-<li>Classification Algorithm: Rules Decision table</li>
-<li>Data consisted of 4 attributes and 2019 instances </li>
-<li>95.8% of the data was accurately classified </li>
-<li>Data was classified into two buckets, "Yes" or "No"</li>
-<li>Cross-validation utilized: 10 Fold</li>
-<li>Top 3 Targeted Industries: Financial Services, Retail and Social Media</li>
-</ul>
+<p>Expand sources of data collection by incorporating data from other organizations such as APWG for Phishing related data. More data = more intelligence and insights gained.</p>
 </div>
 </div>
 
@@ -184,18 +111,8 @@ img.emoji {
 <div class="wp-block-media-text alignwide is-stacked-on-mobile">
 <figure class="wp-block-media-text__media"><img src="https://katiels9.github.io/team1ai4cyber/2021/09/Feodo1.png" alt="" class="wp-image-64 size-full"></figure>
 <div class="wp-block-media-text__content">
-<p class="has-large-font-size">Feodo Tracker Analytical Approach</p>
-<p>Approach: Utilizing Classification of IP Address data from Feodo Tracker data can enable companies to  predict if an IP address is Dridex, Qakbot and Trickbot.</p>
-<p>Sources: Data sources that contain at least one discrete piece of data can be used in the process of classification.​</p>
-<p>Insight: Classification could lead to derived insights such as identifying trends in the countries or regions that are utilizing financial specific malware vs. other types of malware.</p>
-<p>Value: Utilizing Classification of IP Address data from Feodo Tracker data can enable companies to  predict if an IP address is Dridex, Qakbot and Trickbot.​</P>
-<ul>
-<li>Classification Algorithm: J48 Decision Tree</li>
-<li>80.76% of the data was correctly classified </li>
-<li>Data was classified into three buckets: “a=Dridex”, “b=TrickBot”, “c=QakBot”</li>
-<li>Cross-validation utilized: Percentage Split</li>
-<li>Most common malware type in the dataset is QakBot.</li>
-</ul>
+
+<p>Increase threat intelligence gathering targeted at "hot spots" such as the US & Germany, where attacks are commonly known to originate from such.</p>
 
 </div>
 </div>
@@ -204,34 +121,7 @@ img.emoji {
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile">
 <figure class="wp-block-media-text__media"><img src="https://katiels9.github.io/team1ai4cyber/2021/09/RAT1.png" alt="" class="wp-image-66 size-full"></figure><div class="wp-block-media-text__content">
-<p class="has-large-font-size">Stratosphere Remote Access Trojan (RAT) Dataset Analytical Approach</p>
-
-
-<p>Approach: Event Correlation data mining approach techniques were utilized in identifying patterns between regular usage and Malware affected events. </p>
-<p>Sources: Device logs, application logs and host logs are gathered, converted to required format and structure and plotted on a graph to view event patterns.​</p>
-<p>Insight: Based on the logs, Remote Access Trojans(RATs) gained remote control of the compromised device and performed malicious activities at specific events. Event Correlation technique looks for relationships in timing and sequence of events and helps in spotting the patterns.</p>
-<p>Value:  Event Correlation can provide data intelligence, operation support, root cause analysis, and fraud detection. Additional benefits are real-time threat visibility, constant monitoring of threats, and smarter responses to incidents.</P>
-<ul>
-<li>Logs captured from network traffic in cell phones infected with real Android RATs.</li>
-<li>Time log of all the actions performed in the device and server, such as taking a picture, reading files, etc.</li>
-</ul>
-<ol>
-<li>
-	Time-based events needed to be correlated and analyzed.
-</li>
-<li>
-	The log file was split into different columns by  converting it to a .csv file based on delimiters.
-</li>
-<li>
-	Actions were categorized as events and used to differentiate between real events and trojan events.
-</li>
-<li>
-	Columns that were analyzed include Timestamp, Module, and Event.
-</li>
-<li>
-	Event Id is assigned to each Event for the purpose of plotting visualizations.
-</li>
-</ol>
+<p>Enable mobile application device management that monitors usage patterns when a device is in sleep mode that reports any activity that falls outside the norm to the user .</p>
 
 
 <figure class="wp-block-image size-large"><img src="https://team1aicybersecurity.files.wordpress.com/2021/09/microsoftteams-image.png?w=207" alt="" class="wp-image-68"></figure>
